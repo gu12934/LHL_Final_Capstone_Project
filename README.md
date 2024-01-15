@@ -24,6 +24,10 @@ Main deliverable: Tableau dashboard(s) and presentation, Jupyter notebooks if us
 ***
 
 * Dataset - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
+* <img width="405" alt="image" src="https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/99081a6c-18eb-4727-939c-0d089a6dac5c">
+* <img width="495" alt="image" src="https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/71d120b9-9a2c-4c82-8acf-5b94d7264864">
+
+
 
 ***
 ## Process
