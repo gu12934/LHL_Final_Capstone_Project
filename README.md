@@ -9,12 +9,12 @@ In this project, we will combine and practice implementing what we have learned 
 * Cleaning data using python
 * Creating an interactive dashboard with tableau
   
-* 
+  
 * Apply your bootcamp learnings into a single end-to-end project
-  Data retrieval
-  EDA / cleaning
-  Statistical modeling (optional)
-  Tableau
+* Data retrieval
+* EDA / cleaning
+* Statistical modeling (optional)
+* Tableau
 
 Main deliverable: Tableau dashboard(s) and presentation, Jupyter notebooks if used
 
