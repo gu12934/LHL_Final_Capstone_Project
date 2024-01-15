@@ -37,6 +37,11 @@ In this project, we will combine and practice implementing what we have learned 
 * Step 4: Make an interactive dashboard based on city and date on tableau
 ***
 
+## Presentation
+https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8Uek/edit#slide=id.p
+
+https://public.tableau.com/app/profile/gurmol.sohi/vizzes
+
 ## Results
 
 ## Challenges 
