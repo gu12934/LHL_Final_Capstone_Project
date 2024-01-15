@@ -9,6 +9,15 @@ In this project, we will combine and practice implementing what we have learned 
 * Cleaning data using python
 * Creating an interactive dashboard with tableau
   
+* Apply your bootcamp learnings into a single end-to-end project
+* Data retrieval
+* EDA / cleaning
+* Statistical modeling (optional)
+* Tableau
+
+Main deliverable: Tableau dashboard(s) and presentation, Jupyter notebooks if used
+
+  
 ***
 
 ## Files that were used
@@ -18,13 +27,13 @@ In this project, we will combine and practice implementing what we have learned 
 
 ***
 ## Process
-*Step 1: Aquire dataset and import into jupyter notebook, clean dataset and export file
+* Step 1: Aquire dataset and import into jupyter notebook, clean dataset and export file
 
-*Step 2: Use cleaned file and import into tableau and SQL
+* Step 2: Use cleaned file and import into tableau and SQL
 
-*Step 3: Run sql queries to answer questions like top 5: Cities with fraud, which gender has most fraud, what credit card had most fraud
+* Step 3: Run sql queries to answer questions like top 5: Cities with fraud, which gender has most fraud, what credit card had most fraud
 
-*Step 4: Make an interactive dashboard based on city and date on tableau
+* Step 4: Make an interactive dashboard based on city and date on tableau
 ***
 
 ## Results
