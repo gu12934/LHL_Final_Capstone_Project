@@ -6,7 +6,7 @@ from streamlit_pandas_profiling import st_profile_report
 
 def main():
     html_temp1 = """<div style="background-color:#6D7B8D;padding:10px">
-                            		<h4 style="color:white;text-align:center;">Exploratory data Analysis Application</h4>
+                            		<h4 style="color:white;text-align:center;">Exploratory Data Analysis Application</h4>
                             		</div>
                             		<div>
                             		</br>"""
@@ -70,7 +70,7 @@ def main():
     elif choice == "About":
         html_temp4 = """
                        		<div style="background-color:#98AFC7;padding:10px">
-                       		<h4 style="color:white;text-align:center;">This Application is developed by Mohammad Juned Khan using Streamlit Framework. If you're on LinkedIn and want to connect, just click on the link in sidebar and shoot me a request. You can also mail your comments. </h4>
+                       		<h4 style="color:white;text-align:center;">Shoutout to Mohammad Juned Khan for intially developing this app using Streamlit Framework.  </h4>
                        		<h4 style="color:white;text-align:center;">Thanks for Visiting</h4>
 
                        		</div>
