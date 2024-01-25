@@ -17,7 +17,7 @@ In this project, we will combine and practice implementing what we have learned 
   
 ***
 
-## Files that were used
+## Files Used
 ***
 
 * Dataset - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
