@@ -37,10 +37,14 @@ In this project, we will combine and practice implementing what we have learned 
 * Step 4: Make an interactive dashboard based on city and date on tableau
 ***
 
+## Visualization
+
+
 ## Presentation
 https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8Uek/edit#slide=id.p
 
-https://public.tableau.com/app/profile/gurmol.sohi/vizzes
+[https://public.tableau.com/app/profile/gurmol.sohi/vizzes](https://public.tableau.com/app/profile/gurmol.sohi/viz/Credit_viz/Dashboard1)https://public.tableau.com/app/profile/gurmol.sohi/viz/Credit_viz/Dashboard1
+* If you click on the city, it will adjust all the other graphs, you can also select specific months to gain insight
 
 ## Results
 
