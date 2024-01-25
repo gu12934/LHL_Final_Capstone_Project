@@ -60,6 +60,14 @@ https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8
 * If you click on the city, it will adjust all the other graphs, you can also select specific months to gain insight
 
 ## Results
+* Mumbai and Bengaluru had greatest spending, 
+* Most spending was on bills, food, fuel
+* Highest percentage of gold type was in Zira
+* Lowest gold card type was in Achalpur
+* The highest spend month was in August with a Platinum card
+* Greater Mumbai had the highest expense type with Bills and lowest with entertainment
+* Greater Mumbai had 14% of the total spending of the whole dataset
+* 01/2015 had the highest amount of spending
 
 ## Challenges 
 ***
@@ -73,4 +81,4 @@ https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8
 ## Future Goals
 * develop a ML model and make predictions on credit fraud
 * compare to other datasets and other spending habits in different countries
-* 
+* customer segmentation, credit risk, credit fraud detection (anomalies), credit approval projects coming soon
