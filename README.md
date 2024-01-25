@@ -38,6 +38,19 @@ In this project, we will combine and practice implementing what we have learned 
 ***
 
 ## Visualization
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/0c06e9a8-b6d5-4c08-8344-89135030a721)
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/e347307b-d33e-45a6-8b81-4d3ce784f214)
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/c0649cb1-2074-47af-9b6c-da4b3c3e6f51)
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/13a46c83-00db-43e5-bc48-ab8be9dab5ba)
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/f88e9989-62a4-4cb5-b6d4-a36480229159)
+
+## SQL Queries
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/65946b8a-864d-4f24-88fb-8da56273ecc5)
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/94a805ed-e6b0-42b1-b26c-5833ed09357c)
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/6bf6357a-4ea4-42cb-bcde-d68b607fb8da)
+
+## Word Cloud
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/fb29fc6b-3172-4695-861d-0aa55b706699)
 
 
 ## Presentation
@@ -49,5 +62,15 @@ https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8
 ## Results
 
 ## Challenges 
+***
+* It was a challenge to create interactivty on tableau
+* had lots of issues creating a db with sql-lite to begin with and running queries
+* importing the file from a different folder into cleaning ipynb caused some issues
+* streamlit was not working at first, issues with pandas profiling library
+* adding a state column in excel online to make the tableau dashboard better
 
+***
 ## Future Goals
+* develop a ML model and make predictions on credit fraud
+* compare to other datasets and other spending habits in different countries
+* 
