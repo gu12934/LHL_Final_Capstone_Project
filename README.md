@@ -1,7 +1,7 @@
-# LHL_Final_Capstone_Project
+# Credit Spending Habits Visualization 🚀 🥇 <br> Credit Spending in India using Tableau and Streamlit
 
 
-## Project/Goals
+## Project/Goals 🎈
 ***
 In this project, we will combine and practice implementing what we have learned throughout this course, including:
 
@@ -17,7 +17,7 @@ In this project, we will combine and practice implementing what we have learned 
   
 ***
 
-## Files Used
+## Files Used 📁
 ***
 
 * Dataset - https://www.kaggle.com/datasets/thedevastator/analyzing-credit-card-spending-habits-in-india
@@ -27,7 +27,7 @@ In this project, we will combine and practice implementing what we have learned 
 
 
 ***
-## Process
+## Process ⏩
 * Step 1: Aquire dataset and import into jupyter notebook, clean dataset and export file
 
 * Step 2: Use cleaned file and import into tableau and SQL
@@ -37,23 +37,23 @@ In this project, we will combine and practice implementing what we have learned 
 * Step 4: Make an interactive dashboard based on city and date on tableau
 ***
 
-## Visualization
+## Visualization 📊
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/0c06e9a8-b6d5-4c08-8344-89135030a721)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/e347307b-d33e-45a6-8b81-4d3ce784f214)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/c0649cb1-2074-47af-9b6c-da4b3c3e6f51)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/13a46c83-00db-43e5-bc48-ab8be9dab5ba)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/f88e9989-62a4-4cb5-b6d4-a36480229159)
 ***
-## SQL Queries
+## SQL Queries 📉
 * Please refer to the following:
 [SQL Queries MD File](https://github.com/gu12934/LHL_Final_Capstone_Project/blob/main/ouput/sql_output.md)
 
 ***
-## Word Cloud
+## Word Cloud ☁️
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/fb29fc6b-3172-4695-861d-0aa55b706699)
 ***
 
-## Streamlit
+## Streamlit 🧑‍🚀
 
 * This gif showcases the pandas profiling module deployed on the streamlit that allows you to do EDA by uploading a dataset
 
@@ -62,13 +62,13 @@ In this project, we will combine and practice implementing what we have learned 
 * This allows you to do EDA with any dataset uploaded, it will create various plots for you to conduct analysis, also deployed on streamlit
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBnM3QxeDkxeW15aHo0cWJ0em80M2VlYnN4OHltMzl0Nmt0dHpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVEWCP6bR7EJhnpWRI/giphy.gif)
 ***
-## Presentation
+## Presentation 🌠
 https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8Uek/edit#slide=id.p
 
 [https://public.tableau.com/app/profile/gurmol.sohi/vizzes](https://public.tableau.com/app/profile/gurmol.sohi/viz/Credit_viz/Dashboard1)https://public.tableau.com/app/profile/gurmol.sohi/viz/Credit_viz/Dashboard1
 * If you click on the city, it will adjust all the other graphs, you can also select specific months to gain insight
 ***
-## Results
+## Results 🔍
 * Mumbai and Bengaluru had greatest spending, 
 * Most spending was on bills, food, fuel
 * Highest percentage of gold type was in Zira
@@ -78,7 +78,7 @@ https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8
 * Greater Mumbai had 14% of the total spending of the whole dataset
 * 01/2015 had the highest amount of spending
 
-## Challenges 
+## Challenges 🎱
 ***
 * It was a challenge to create interactivty on tableau
 * had lots of issues creating a db with sql-lite to begin with and running queries
@@ -87,7 +87,7 @@ https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8
 * adding a state column in excel online to make the tableau dashboard better
 
 ***
-## Future Goals
+## Future Goals 🥅
 * develop a ML model and make predictions on credit fraud
 * compare to other datasets and other spending habits in different countries
 * customer segmentation, credit risk, credit fraud detection (anomalies), credit approval projects coming soon
