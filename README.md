@@ -52,8 +52,6 @@ In this project, we will combine and practice implementing what we have learned 
 * <img width="405" alt="image" src="https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/99081a6c-18eb-4727-939c-0d089a6dac5c">
 * <img width="495" alt="image" src="https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/71d120b9-9a2c-4c82-8acf-5b94d7264864">
 
-
-
 ***
 ## Process ⏩
 * Step 1: Aquire dataset and import into jupyter notebook, clean dataset and export file
@@ -88,12 +86,24 @@ In this project, we will combine and practice implementing what we have learned 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzdWdrbTcycng0eHJtMWpjMnh3cjAwMjh6NTVydTF0M21rMXQzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tZCu365fLHh7lwbGJe/giphy.gif)
 
 * This allows you to do EDA with any dataset uploaded, it will create various plots for you to conduct analysis, also deployed on streamlit
+  
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBnM3QxeDkxeW15aHo0cWJ0em80M2VlYnN4OHltMzl0Nmt0dHpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVEWCP6bR7EJhnpWRI/giphy.gif)
+
+## The Streamlit App 
+To run the Streamlit App, run the following command: 
+
+```python
+streamlit run app.py
+
+
+```
+* Note for the above, you need to be in the correct folder
 ***
 ## Presentation 🌠
 https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8Uek/edit#slide=id.p
 
 [https://public.tableau.com/app/profile/gurmol.sohi/vizzes](https://public.tableau.com/app/profile/gurmol.sohi/viz/Credit_viz/Dashboard1)https://public.tableau.com/app/profile/gurmol.sohi/viz/Credit_viz/Dashboard1
+
 * If you click on the city, it will adjust all the other graphs, you can also select specific months to gain insight
 ***
 ## Results 🔍
