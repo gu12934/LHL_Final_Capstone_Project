@@ -72,9 +72,8 @@ In this project, we will combine and practice implementing what we have learned 
 ***
 ## SQL Queries 📉
 * Please refer to the following:
-[SQL Queries MD File](https://github.com/gu12934/LHL_Final_Capstone_Project/blob/main/ouput/sql_output.md)
-
-[ERD Diagram](https://github.com/gu12934/LHL_Final_Capstone_Project/blob/main/ouput/ERD_diagram.png)
+* [SQL Queries MD File](https://github.com/gu12934/LHL_Final_Capstone_Project/blob/main/ouput/sql_output.md)
+* [ERD Diagram](https://github.com/gu12934/LHL_Final_Capstone_Project/blob/main/ouput/ERD_diagram.png)
 
 ***
 ## Word Cloud ☁️
