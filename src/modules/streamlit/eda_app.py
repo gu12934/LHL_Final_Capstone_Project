@@ -24,9 +24,7 @@ def main():
     st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 
     st.sidebar.markdown(
-        """ Credits go to Mohammad Juned Khan    
-            I took his file and modified it to my needs. With the y data profiling library, I was able to create a more interactive EDA app. 
-            [LinkedIn] (https://www.linkedin.com/in/md-juned-khan)""")
+        """  With the y data profiling library, I was able to create a more interactive EDA app.""")
     if choice == "Home":
         # color codes  ff1a75  6D7B8D
         html_temp2 = """<div style="background-color:#6D7B8D;padding:10px">
