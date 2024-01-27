@@ -1,11 +1,11 @@
 ## Pre-question 2: What are the highest spending amounts for a month in top 5 cities
 
-Answer:
+
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/7db44858-7a3f-46c4-a543-eac5ca03fcbc)
 
 ## Question 1: Write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends
 
-Answer:
+
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/a5c61183-10d6-4370-be17-bd6b8620e21a)
 
 ## Question 2: write a query to print highest spend month and amount spent in that month for each card type
