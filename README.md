@@ -45,9 +45,7 @@ In this project, we will combine and practice implementing what we have learned 
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/f88e9989-62a4-4cb5-b6d4-a36480229159)
 ***
 ## SQL Queries
-![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/65946b8a-864d-4f24-88fb-8da56273ecc5)
-![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/94a805ed-e6b0-42b1-b26c-5833ed09357c)
-![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/6bf6357a-4ea4-42cb-bcde-d68b607fb8da)
+* These will be posted inside a .md file
 
 ***
 ## Word Cloud
@@ -60,6 +58,8 @@ In this project, we will combine and practice implementing what we have learned 
 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzdWdrbTcycng0eHJtMWpjMnh3cjAwMjh6NTVydTF0M21rMXQzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tZCu365fLHh7lwbGJe/giphy.gif)
 
+* This allows you to do EDA with any dataset uploaded, it will create various plots for you to conduct analysis, also deployed on streamlit
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBnM3QxeDkxeW15aHo0cWJ0em80M2VlYnN4OHltMzl0Nmt0dHpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVEWCP6bR7EJhnpWRI/giphy.gif)
 ***
 ## Presentation
 https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8Uek/edit#slide=id.p
