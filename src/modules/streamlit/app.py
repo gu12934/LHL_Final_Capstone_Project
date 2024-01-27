@@ -19,7 +19,7 @@ uploaded_file= st.sidebar.file_uploader(label="Upload your CSV or Excel file.", 
 global df
 if uploaded_file is not None:
     print(uploaded_file)
-    print('hello')
+    print('file uploaded')
     try:
         df= pd.read_csv(uploaded_file)
     
