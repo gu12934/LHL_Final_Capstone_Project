@@ -54,6 +54,12 @@ In this project, we will combine and practice implementing what we have learned 
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/fb29fc6b-3172-4695-861d-0aa55b706699)
 ***
 
+## Streamlit
+
+* This gif showcases the pandas profiling module deployed on the streamlit that allows you to do EDA by uploading a dataset
+
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjYzdWdrbTcycng0eHJtMWpjMnh3cjAwMjh6NTVydTF0M21rMXQzMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tZCu365fLHh7lwbGJe/giphy.gif)
+
 ***
 ## Presentation
 https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8Uek/edit#slide=id.p
