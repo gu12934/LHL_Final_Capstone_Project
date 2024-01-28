@@ -33,7 +33,7 @@ In this project, we will combine and practice implementing what we have learned 
 │   ├── SQL_Credit_card.ipynb <- code for sql queries
 │   └── EDA.ipynb             <- EDA file
 │   └── Credit_viz.twbx       <- tableau file with dashboard
-      ├── streamlit           <- Folder For All The Streamlit App Code  
+│       ├── streamlit           <- Folder For All The Streamlit App Code  
 │         ├── app.py          <- viz app for different plots
 │         ├── eda_app.py      <- pandas profiling
 │         ├── requirements.txt<- list of all dependencies 
