@@ -5,3 +5,4 @@ pandas-profiling==3.6.6
 streamlit-pandas-profiling==0.1.1
 plotly_express==0.4.1
 numpy==1.26.3
+seaborn==0.13.2
