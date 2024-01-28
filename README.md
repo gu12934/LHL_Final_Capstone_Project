@@ -1,4 +1,4 @@
-# Credit Spending Habits Visualization 🚀 🥇 <br> Credit Spending in India using Tableau and Streamlit
+# Credit Spending Habits Visualization 🚀 🥇 <br> Credit Spending in India using Tableau and Streamlit  💳
 
 
 ## Project/Goals 🎈
