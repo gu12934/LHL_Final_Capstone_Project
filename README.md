@@ -1,4 +1,4 @@
-# Credit Spending Habits Visualization 🚀 🥇 <br> Credit Spending in India using Tableau and Streamlit
+# Credit Spending Habits Visualization 🚀 🥇 <br> Credit Spending in India using Tableau and Streamlit  💳
 
 
 ## Project/Goals 🎈
@@ -33,7 +33,7 @@ In this project, we will combine and practice implementing what we have learned 
 │   ├── SQL_Credit_card.ipynb <- code for sql queries
 │   └── EDA.ipynb             <- EDA file
 │   └── Credit_viz.twbx       <- tableau file with dashboard
-      ├── streamlit           <- Folder For All The Streamlit App Code  
+│       ├── streamlit           <- Folder For All The Streamlit App Code  
 │         ├── app.py          <- viz app for different plots
 │         ├── eda_app.py      <- pandas profiling
 │         ├── requirements.txt<- list of all dependencies 
@@ -69,6 +69,8 @@ In this project, we will combine and practice implementing what we have learned 
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/c0649cb1-2074-47af-9b6c-da4b3c3e6f51)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/13a46c83-00db-43e5-bc48-ab8be9dab5ba)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/f88e9989-62a4-4cb5-b6d4-a36480229159)
+
+* [Dashboard](https://github.com/gu12934/LHL_Final_Capstone_Project/blob/main/ouput/Credit%20Dash.png)
 ***
 ## SQL Queries 📉
 * Please refer to the following:
@@ -91,7 +93,8 @@ In this project, we will combine and practice implementing what we have learned 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBnM3QxeDkxeW15aHo0cWJ0em80M2VlYnN4OHltMzl0Nmt0dHpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVEWCP6bR7EJhnpWRI/giphy.gif)
 
 * Test out the app here: 
-[EDA app deployment](https://lhlfinalcapstoneproject-eda.streamlit.app/)
+[EDA app deployment on streamlit cloud](https://lhlfinalcapstoneproject-eda.streamlit.app/)
+* Note: the app does not use the uploaded dataset for some reason, it is supposed to do what is in the gif above, but you can use it with local host
 
 ## The Streamlit App 
 To run the Streamlit App, run the following command: 
