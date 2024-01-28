@@ -5,6 +5,8 @@ import pandas as pd
 from PIL import Image
 import seaborn as sns
 import plotly.figure_factory as ff
+from warnings import filterwarnings
+filterwarnings(action='ignore', category=DeprecationWarning, message='`np.bool` is a deprecated alias')
 
 #title of the app
 st.title("Data Visualization App")
