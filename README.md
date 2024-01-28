@@ -69,6 +69,8 @@ In this project, we will combine and practice implementing what we have learned 
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/c0649cb1-2074-47af-9b6c-da4b3c3e6f51)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/13a46c83-00db-43e5-bc48-ab8be9dab5ba)
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/f88e9989-62a4-4cb5-b6d4-a36480229159)
+
+* [Dashboard](https://github.com/gu12934/LHL_Final_Capstone_Project/blob/main/ouput/Credit%20Dash.png)
 ***
 ## SQL Queries 📉
 * Please refer to the following:
