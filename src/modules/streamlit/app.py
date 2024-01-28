@@ -5,8 +5,9 @@ import pandas as pd
 from PIL import Image
 import seaborn as sns
 import plotly.figure_factory as ff
-import warnings 
-warnings.filterwarnings("ignore", category=FutureWarning)
+from warnings import filterwarnings
+filterwarnings(action='ignore', category=DeprecationWarning, message='In the future `np.bool` will be defined as the corresponding NumPy scalar')
+
 
 
 #title of the app
