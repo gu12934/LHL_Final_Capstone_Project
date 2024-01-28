@@ -90,6 +90,9 @@ In this project, we will combine and practice implementing what we have learned 
   
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBnM3QxeDkxeW15aHo0cWJ0em80M2VlYnN4OHltMzl0Nmt0dHpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVEWCP6bR7EJhnpWRI/giphy.gif)
 
+*Test out the app here: 
+![Alt Text](https://lhlfinalcapstoneproject-eda.streamlit.app/)
+
 ## The Streamlit App 
 To run the Streamlit App, run the following command: 
 
