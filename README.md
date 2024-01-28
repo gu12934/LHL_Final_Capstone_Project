@@ -91,7 +91,8 @@ In this project, we will combine and practice implementing what we have learned 
 ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnBnM3QxeDkxeW15aHo0cWJ0em80M2VlYnN4OHltMzl0Nmt0dHpyMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LVEWCP6bR7EJhnpWRI/giphy.gif)
 
 * Test out the app here: 
-[EDA app deployment](https://lhlfinalcapstoneproject-eda.streamlit.app/)
+[EDA app deployment on streamlit cloud](https://lhlfinalcapstoneproject-eda.streamlit.app/)
+* Note: the app does not use the uploaded dataset for some reason, it is supposed to do what is in the gif above, but you can use it with local host
 
 ## The Streamlit App 
 To run the Streamlit App, run the following command: 
