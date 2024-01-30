@@ -1,5 +1,7 @@
 # Credit Spending Habits Visualization 🚀 🥇 <br> Credit Spending in India using Tableau and Streamlit  💳
 
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/991c5a04-ab38-428e-98ee-ddc5e62d2c16)
+
 
 ## Project/Goals 🎈
 ***
