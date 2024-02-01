@@ -134,7 +134,8 @@ https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8
 
 ![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/65841966-729d-486e-9e52-47f78e420371)
 
-![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/e8721638-83eb-4c71-8c5f-f9caf20c7314)
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/2895f40e-112d-462d-b89c-2d62d0c13990)
+
 
 ## Challenges 🎱
 ***
