@@ -29,6 +29,7 @@ In this project, we will combine and practice implementing what we have learned 
 ├── output                    <- Images Used in the Project and output files
 │   ├── Credit Dash.png       <- dashboard snapshot
 │   ├── sql_output.md         <- output of sql queries
+│   ├── ERD_diagram.png       <- Entity relationship diagram
 │ 
 ├── src/modules               <- Source Code 
 │   ├── cleaning_data.ipynb   <- code for data cleaning 
