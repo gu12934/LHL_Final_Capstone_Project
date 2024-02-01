@@ -125,6 +125,9 @@ https://docs.google.com/presentation/d/1zzXzLE6kJSKPbSglUbs9xWFQATFGJms0aH-3kAz8
 * Greater Mumbai had 14% of the total spending of the whole dataset
 * 01/2015 had the highest amount of spending
 
+![image](https://github.com/gu12934/LHL_Final_Capstone_Project/assets/36687057/afd0ea63-6a85-4592-89cd-ea2fedfe2a14)
+
+
 ## Challenges 🎱
 ***
 * It was a challenge to create interactivty on tableau
