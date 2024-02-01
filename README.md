@@ -34,14 +34,15 @@ In this project, we will combine and practice implementing what we have learned 
 │   ├── cleaning_data.ipynb   <- code for data cleaning 
 │   ├── SQL_Credit_card.ipynb <- code for sql queries
 │   └── EDA.ipynb             <- EDA file
+│   └── credit-card-spending-ml.ipynb <-machine learning files   
 │   └── Credit_viz.twbx       <- tableau file with dashboard
-│       ├── streamlit           <- Folder For All The Streamlit App Code  
+│       ├── streamlit         <- Folder For All The Streamlit App Code  
 │         ├── app.py          <- viz app for different plots
 │         ├── eda_app.py      <- pandas profiling
 │         ├── requirements.txt<- list of all dependencies 
 │
-├── __init__.py              <- Package Initializer          
-└── README.md                <- Project Documentation
+├── __init__.py               <- Package Initializer          
+└── README.md                 <- Project Documentation
 ```
 
 ***
